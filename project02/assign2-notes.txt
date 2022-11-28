@@ -1,0 +1,18 @@
+For this assignment 02, I added all the codes in the interpreter and compiler file where it was required. I was able
+to complete all the functionalities and test with my custom test.bl file and also for the interpreter tested it with
+the given TestILI and TestILI2. And it passed all the test cases. And for the compiler also, I tested the TestILC and 
+TestILC2 and the compiler also passed all the test cases.
+
+Difficulties I faced in this program are, 
+in the interpreter, other operations except for was easy or same as the last assignment. For operation was not that hard
+too. it's just about following all the instructions that you have added in the requirement pdf file. I just took more time 
+than others and had to check the condition for looping in different ways.
+
+in the compiler, after the arithmetic operations, others were tricky. But after finding out for one, for example, Lt, the Eq and Gt 
+got easy. And using the Lt, Gt, Eq others was solvable to check the looping condition and other conditions. If and For one again 
+took more time to find out step by step.
+
+For the EvalOrder, took a lot of time to figure out how to call functions in function in scala. There was something call by name
+that I used. But I don't know why I took a lot of time for this one to figure out.
+
+Overall, initially, it seems hard but after solving step by step it gets easier and also fun to solve. 
